@@ -70,7 +70,7 @@ requests==2.31.0
 rich==13.4.2
 rpds-py==0.8.11
 scikit-learn==1.5.2
-scipy==1.11.1
+scipy==1.10.0
 six==1.16.0
 smart-open==6.3.0
 smmap==5.0.0
